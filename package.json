@@ -1,6 +1,6 @@
 {
   "name": "homebridge-synology-home",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "cpda11",
   "description": "Homebridge switch for synology surveillance station's home mode (forked from https://github.com/jon-bell/homebridge-synology-surveillance-homemode)",
   "license": "MIT",
@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/cpda11/homebridge-synology-surveillance-homemode"
   },
+  "keywords": [
+    "homebridge-plugin"
+  ],
   "main": "index.js",
   "engines": {
     "node": ">=0.12.0",
