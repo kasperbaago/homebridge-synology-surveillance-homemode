@@ -8,7 +8,7 @@ Switch "off" -> home mode on (cameras are off)
 Configuration:
 ```
  {
-            "accessory": "SSHomeMode",
+            "accessory": "SynologyHomeSwich",
             "name": "Security Cameras",
             "url": "https://192.168.1.x:5000/",
             "username": "user",
